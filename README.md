@@ -21,8 +21,8 @@
 
 ### 2. 结构动力学仿真 (Structural Dynamics)
 - **数值积分方法**: 
-  - Newmark-\beta 法
-  - Wilson-\theta 法
+  - Newmark-β 法
+  - Wilson-θ 法
   - Central Difference Method (中心差分法)
 - **多自由度体系响应计算**: 支持自定义质量、刚度、阻尼矩阵 ($M, K, C$) 进行时程分析。
 
