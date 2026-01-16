@@ -8,7 +8,7 @@
 
 本项目旨在为土木工程领域的研究人员和工程师提供一套标准化的算法库，涵盖从传感器原始数据处理到结构状态评估的全流程。
 
-[English Version](./README_EN.md) *(可选：如果你打算写双语文档)*
+[English Version](./README_EN.md) 
 
 ---
 
@@ -21,8 +21,8 @@
 
 ### 2. 结构动力学仿真 (Structural Dynamics)
 - **数值积分方法**: 
-  - Newmark-$\beta$ 法
-  - Wilson-$\theta$ 法
+  - Newmark-\beta 法
+  - Wilson-\theta 法
   - Central Difference Method (中心差分法)
 - **多自由度体系响应计算**: 支持自定义质量、刚度、阻尼矩阵 ($M, K, C$) 进行时程分析。
 
@@ -46,7 +46,7 @@
 
 ```bash
 # 克隆仓库
-git clone [https://github.com/YourUsername/SHM-Tools.git](https://github.com/YourUsername/SHM-Tools.git)
+git clone [https://github.com/3104792380/SHM-Tools.git](https://github.com/3104792380/SHM-Tools.git)
 
 # 进入目录
 cd SHM-Tools
